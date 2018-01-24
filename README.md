@@ -1,8 +1,8 @@
 # disanchez.github.io
 
-## Donny Sanchez's GitHub Portfolio
+##Donny Sanchez's GitHub Portfolio
 
-###_Under Construction_
+##_Under Construction_
 
 ###Projects
 
